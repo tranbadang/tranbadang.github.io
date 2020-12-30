@@ -14,7 +14,7 @@ Dự án ban đầu được thực hiện vào tháng 10, khi chúng tôi tạo
 Có rất nhiều mã trục trặc, dư thừa và lộn xộn trong kho này. Nếu bạn muốn kiểm tra mã nguồn, hãy tiến hành một cách thận trọng.
 
 Cách sử dụng
-Bạn có thể vào trang web thông qua liên kết này: Trang chủ - HasalaTech. Sau đó, nhấp vào Đăng nhập hoặc Đăng ký, sau đó nhấp vào Đăng nhập với Google hoặc Đăng ký với Google. Sử dụng tài khoản Google ưa thích của bạn, sau đó một lúc, bạn sẽ được chuyển hướng đến trang Bảng điều khiển.
+Bạn có thể vào trang web thông qua liên kết này:  Home - HasalaTech. Sau đó, nhấp vào Đăng nhập hoặc Đăng ký, sau đó nhấp vào Đăng nhập với Google hoặc Đăng ký với Google. Sử dụng tài khoản Google ưa thích của bạn, sau đó một lúc, bạn sẽ được chuyển hướng đến trang Bảng điều khiển.
 
 Xin lưu ý rằng đăng ký hoặc đăng nhập bằng cách thông thường không đầy đủ chức năng, vì vậy không nên sử dụng nó.
 
